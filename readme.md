@@ -15,9 +15,9 @@
 
 ![](https://komarev.com/ghpvc/?username=abhishek31krs&icon=0&color=0)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishek singh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=Abhishek singh&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=abhishek31krs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://komarev.com/ghpvc/?username=abhishek31krs&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
